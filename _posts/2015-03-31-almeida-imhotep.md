@@ -1,9 +1,9 @@
 --- 
 layout: publication
 category: publications
-title: Imhotep: an approach to user and device conscious mobile applications
+title: Imhotep an approach to user and device conscious mobile applications
 authors: Aitor Almeida, Pablo Orduña, Eduardo Castillejo, Diego López-de-Ipiña, Marcos Sacristán
-rest_citation: Computers in Human Behavior , 2013.
+rest_citation: Personal Ubiquitous Computing, 2011
 pdf: http://morelab.deusto.es/media/publications/2011/journalarticle/imhotep-an-approach-to-user-and-device-conscious-mobile-applications.pdf
 bib: /files/bibtex/almeida_imhotep.bib
 slides: 
