@@ -11,17 +11,4 @@ slideshare-embed_code: 10412946
 semantics: distributed-tracking-system-for-patients-with-cognitive-impairments
 --- 
 
-Distributed architectures mean signiﬁcant beneﬁts
-for many scenarios.
-However, they also entail difﬁculties and
-problems because of their intrinsic nature.
-Moreover, these
-environments don’t support any semantics by themselves,
-becoming necessary the implementation of additional solutions
-for knowledge representation and management.
-As a result,
-new troubles arise, as integration and management related.
-This work proposes the use of a Triple Spaces solution for
-integrating any semantic and distributed environment.
-Particulary, it outlines how two very different scenarios have been
-implemented under the Triple Spaces paradigm.
+Distributed architectures mean signiﬁcant beneﬁts for many scenarios. However, they also entail difﬁculties and problems because of their intrinsic nature. Moreover, these environments don’t support any semantics by themselves, becoming necessary the implementation of additional solutions for knowledge representation and management. As a result, new troubles arise, as integration and management related. This work proposes the use of a Triple Spaces solution for integrating any semantic and distributed environment. Particulary, it outlines how two very different scenarios have been implemented under the Triple Spaces paradigm.
