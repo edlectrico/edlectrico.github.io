@@ -23,28 +23,28 @@ comments: true
   
   <div style="float:right; margin-bottom: 20px;">
     {% if page.bib %}
-      <a href="{{ page.bib }}"><img src="images/bibtex.png" alt="Bibtex citation" /></a>
+      <a href="{{ page.bib }}"><img src="../images/bibtex.png" alt="Bibtex citation" /></a>
     {% endif %}
         
     {% if page.code %}
       <span itemprop="hasPart" itemscope itemtype="http://schema.org/Code">
-	<a href="{{ page.code }}" itemprop="codeRepository"><img src="images/code-icon.png" alt="Check the code associated with the publication" /></a>
+	<a href="{{ page.code }}" itemprop="codeRepository"><img src="../images/code-icon.png" alt="Check the code associated with the publication" /></a>
       </span>
     {% endif %}
     
     {% if page.semantics %}
-      <a href="http://www.morelab.deusto.es/labman/resource/publications/{{ page.semantics }}" itemprop="sameAs"><img src="images/rdf.png" alt="Semantics of the publication" /></a>
+      <a href="http://www.morelab.deusto.es/labman/resource/publications/{{ page.semantics }}" itemprop="sameAs"><img src="../images/rdf.png" alt="Semantics of the publication" /></a>
     {% endif %}
     
     {% comment %} Just if the slide has not already been embeded {% endcomment %} 
     {% if page.slides and page.slideshare-embed_code == null %}
       <span itemprop="hasPart" itemscope itemtype="http://schema.org/CreativeWork">
-	<a href="{{ page.slides }}"><img src="images/slides.png" alt="Presentation" /></a>
+	<a href="{{ page.slides }}"><img src="../images/slides.png" alt="Presentation" /></a>
       </span>
     {% endif %}
     
     {% if page.pdf %}
-      <a href="{{ page.pdf }}"><img src=imagesimg/pdf.png" alt="Read the full publication" /></a>
+      <a href="{{ page.pdf }}"><img src=../images/pdf.png" alt="Read the full publication" /></a>
     {% endif %}
   </div>
 
