@@ -21,15 +21,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/edlectrico
+  github: edlectrico
   instagram:
-  linkedin: https://www.linkedin.com/in/eduardocastillejogil
+  linkedin: eduardocastillejogil
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  slideshare: http://www.slideshare.net/edlectrico/
+  slideshare: edlectrico/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
