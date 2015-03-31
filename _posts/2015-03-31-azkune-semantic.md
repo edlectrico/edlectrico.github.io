@@ -2,7 +2,7 @@
 layout: publication
 category: publications
 title: Semantic Framework for Social Robot Self-Configuration
-authors: Gorka Azkune, Pablo Orduña, Xabier Laiseca, Eduardo Castillejo, Diego López-de-Ipiña, Miguel Loitxate, Jon Azpiazu  
+authors: Gorka Azkune, Pablo Orduña, Xabier Laiseca, Eduardo Castillejo, Diego López-de-Ipiña, Miguel Loitxate, Jon Azpiazu
 rest_citation: Sensors, 2013.
 pdf: http://morelab.deusto.es/media/publications/2013/journalarticle/semantic-framework-for-social-robot-self-configuration.pdf
 bib: /files/bibtex/azkune_semantic.bib
