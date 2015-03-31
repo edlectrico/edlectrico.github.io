@@ -1,18 +1,73 @@
 ---
 layout: default
+title: Eduardo Castillejo, PhD.
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div itemscope itemtype="http://schema.org/Person">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<section>
+  <h1>Biography</h1>
+    <img class="avatar"
+	 src="https://avatars3.githubusercontent.com/u/2284121?v=3&s=460"
+	 alt="{{ site.author }}"
+	 width="200"
+	 height="200"
+	 itemprop="image" />
+	 
+    <p>Hi! My name is Eduardo Castillejo, I'm a Research Assistant in the Internet unit at <a href="http://www.morelab.deusto.es">MORElab - Envisioning Future Internet</a> research group at <a href="http://www.deustotech.deusto.es">DeustoTech – Deusto Institute of Technology</a>, at the <a href="http://www.deusto.es">University of Deusto</a>. I've been working in this group since 2008 taking part in some local, national and European research projects (PIRAmIDE, ACROSS, THOFU, DYNUI, MUGGES...) and different proposals. I have collaborated with other research projects, like mCiudad and Zebra Crossing <a href="https://github.com/zxing/zxing">ZXing</a> (see the official announcement <a href="https://groups.google.com/forum/#!topic/zxing/HAirjcA9CeY">here</a>). Besides, I have taken active part in many scientific publications related with these research projects.</p>
+</section>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<section style="clear:both; margin-top: 40px;">
+    <h1>Contact</h1>
+    
+    <img class="qrcode"
+      src="img/contact_qr.png"
+      alt="Scan it and add me to your contacts!"
+      width="160"
+      height="160" />
 
-      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
-    </article>
-  {% endfor %}
+    <blockquote>
+    <p>
+      <span itemprop="name">Eduardo Castillejo</span> (<span itemprop="email">eduardo.castillejo [at] deusto.es</span>) <br>
+      <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+	<span itemprop="department" itemscope itemtype="http://schema.org/Organization">
+	  <span itemprop="department" itemscope itemtype="http://schema.org/Organization">
+	    <a href="http://www.morelab.deusto.es/" itemprop="url">
+	      <span itemprop="name">MORElab - Envisioning Future Internet</span>
+	    </a> <br>
+	  </span>
+	  <a href="http://www.deustotech.deusto.es/" itemprop="url">
+	    <span itemprop="name">Deusto Institute of Technology - DeustoTech</span>
+	  </a>,
+	</span>
+	<a href="http://www.deusto.es/" itemprop="url">
+	  <span itemprop="name">University of Deusto</span>
+	</a>
+      </span><br>
+      <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span itemprop="streetAddress">Avda. Universidades 24, 48007 - Bilbao, Spain</span><br>
+	Tel: <span itemprop="telephone">+34 944 139 003 Ext. 3034</span><br>
+	Fax: <span itemprop="faxNumber">+34 944 139 166</span>
+      </span>
+    </p>
+    </blockquote>
+</section>
+
+
+<section style="clear:both; margin-top: 40px;">
+    <h1>More about me</h1>
+    
+    <p>Still interested? Check the following links:</p>
+
+	<ul>
+	<li>My open-source contributions on <a href="https://github.com/edlectrico">Github</a>.</li>
+	<li>My CV on <a href="https://www.linkedin.com/in/eduardocastillejogil">Linkedin</a>.</li>
+	<li>My presentations on <a href="http://www.slideshare.net/edlectrico">SlideShare</a>
+	</li>
+	<li><a href="http://www.morelab.deusto.es/page/eduardo-castillejo">Semantic knowledge about me</a></li>
+	<li>My <a href="http://morelab.deusto.es/people/members/">colleagues</a>
+	</li>
+	</ul>
+</section>
+
 </div>
