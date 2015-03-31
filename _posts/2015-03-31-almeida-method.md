@@ -1,7 +1,7 @@
 --- 
 layout: publication
 category: publications
-title: Semantic Framework for Social Robot Self-Configuration
+title: A method for automatic generation of fuzzy membership functions for mobile device’s characteristics based on Google Trends
 authors: Aitor Almeida, Pablo Orduña, Eduardo Castillejo, Diego López-de-Ipiña, Marcos Sacristán
 rest_citation: Computers in Human Behavior , 2013.
 pdf: http://morelab.deusto.es/media/publications/2013/journalarticle/a-method-for-automatic-generation-of-fuzzy-membership-functions-for-mobile-devices-characteristics-based-on-google-trends.pdf
