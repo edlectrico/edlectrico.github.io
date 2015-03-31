@@ -7,9 +7,24 @@ rest_citation: PhD thesis, <a href="http://www.deusto.es">Universidad de Deusto<
 pdf: http://morelab.deusto.es/media/publications/theses/eduardo-castillejo.pdf
 bib: /files/bibtex/castillejo-dynamic.bib
 slides: http://www.slideshare.net/edlectrico/dynamic-user-interface-adaptation-engine-through-semantic-modelling-and-reasoning-in-mobile-devices
-slideshare-embed_code: 10412946
+slideshare-embed_code:
 semantics: 
 --- 
+
+Official announcement in [MORElab](http://morelab.deusto.es/)'s website [here](http://morelab.deusto.es/news/view/eduardo-castillejo-new-doctor-at-morelab/).
+
+Supervisors:
+
+* [Dr. Diego López de Ipiña](http://morelab.deusto.es/people/members/diego-lopez-de-ipina/) [University of Deusto](http://www.deusto.es).
+* [Dr. Aitor Almeida](http://morelab.deusto.es/people/members/aitor-almeida/) [University of Deusto](http://www.deusto.es).
+
+The VIVA panel was formed by:
+
+* [José Bravo](http://webpub.esi.uclm.es/directorio/76240/9841/Jose-Bravo-Rodriguez) (President, from [Universidad de Castilla la Mancha](http://www.uclm.es/)).
+* [Vicente Pelechano](http://www.pros.upv.es/index.php/es/centro-pros/miembros/14-pele) from [Universidad Politécnica de Valencia](https://www.upv.es/).
+* [Pablo Orduña](http://morelab.deusto.es/people/members/pablo-orduna/), from [Universidad de Deusto](http://www.deusto.es).
+
+<hr />
 
 Since the birth of the first GUI, adaptive user interfaces have been used to cover a wider range of possibilities seeking alternatives for the presentation of the information. Starting with small personalization features, more related to practical interaction, first customizable menus and graphical elements arose. Subsequently, the possibility of breaking down the interaction barriers has grown. From the user perspective, these limitations are usually caused by physiological disabilities, which imped users to properly interact with or consume information.
 
