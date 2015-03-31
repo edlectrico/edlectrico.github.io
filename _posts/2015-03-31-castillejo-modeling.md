@@ -3,7 +3,7 @@ layout: publication
 category: publications
 title: Modeling Users, Context and Devices for Ambient Assisted Living Environments
 authors: Eduardo Castillejo, Aitor Almeida, Diego López-de-Ipiña, Liming Chen
-rest_citation: Sensors. vol. 14. p. 5354-5391. DOI: 10.3390/s140305354, 2014.
+rest_citation: Sensors, 2014.
 pdf: http://morelab.deusto.es/media/publications/2014/journalarticle/modeling-users-context-and-devices-for-ambient-assisted-living-environments.pdf
 bib: /files/bibtex/castillejo_modeling.bib
 slides: 
