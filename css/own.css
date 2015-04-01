@@ -4,6 +4,6 @@
 }
 
 .nav {
-  position: fixed;
-  color: red;
+  position: relative;
+  left: 40px;
 }
