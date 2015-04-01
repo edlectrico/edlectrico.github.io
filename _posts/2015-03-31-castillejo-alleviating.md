@@ -6,7 +6,7 @@ authors: Eduardo Castillejo, Aitor Almeida, Diego López-de-Ipiña
 rest_citation: Proceedings of conference, Preference Learning, Problems and Applications in AI ECAI-12 Workshop, 2012
 pdf: http://morelab.deusto.es/media/publications/2012/conferencepaper/alleviating-cold-user-start-problem-with-users-social-network-data-in-recommendation-systems.pdf
 bib: /files/bibtex/castillejo_alleviating.bib
-slides: 
+slides: http://www.slideshare.net/edlectrico/presentation-14154249
 slideshare-embed_code: 
 semantics: 
 --- 

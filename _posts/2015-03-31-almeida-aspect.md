@@ -6,7 +6,7 @@ authors: Aitor Almeida, Eduardo Castillejo, Diego López-de-Ipiña, Marcos Sacri
 rest_citation: Proceedings of The Sixth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, 2012
 pdf: http://morelab.deusto.es/media/publications/2012/conferencepaper/an-aspect-based-resource-recommendation-system-for-smart-hotels.pdf
 bib: /files/bibtex/almeida_aspect.bib
-slides: 
+slides: http://www.slideshare.net/edlectrico/an-aspect-based-resource-recommendation-system-for-smart-hotels
 slideshare-embed_code: 
 semantics: 
 --- 

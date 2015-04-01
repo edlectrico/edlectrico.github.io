@@ -6,7 +6,7 @@ authors: Aitor Gómez Goiri, Eduardo Castillejo, Pablo Orduña, Xabier Laiseca, 
 rest_citation: Ambient Assisted Living, 2011
 pdf: http://morelab.deusto.es/media/publications/2011/booksection/easing-the-mobility-of-disabled-people-in-supermarkets-using-a-distributed-solution.pdf
 bib: /files/bibtex/goiri_easing.bib
-slides: 
+slides: http://www.slideshare.net/edlectrico/easing-the-mobility-of-disabled-people-in-supermarket-using-a-distributed-solution
 slideshare-embed_code: 
 semantics: 
 --- 
