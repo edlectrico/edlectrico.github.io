@@ -72,7 +72,7 @@ function drawChart() {
       <p> {{ post.content | strip_html | truncatewords: 55 }} <p>
       <p><a href="{{ post.more_info }}">Click here to read more</a>
       {% if post.website %}
-	or <a href="{{ post.website }}">to go to its website.</a></p>
+	or <a href="{{ post.website }}">to go to the project website.</a></p>
       {% endif %}
     </div>
   {% endif %}
