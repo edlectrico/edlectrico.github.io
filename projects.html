@@ -79,6 +79,8 @@ function drawChart() {
     <h3>{{ post.title }}</h3>
     <div>
       <p> {{ post.content | strip_html | truncatewords: 55 }} <p>
+      <br>
+      <br>
 		<p> <i>{{ post.role | strip_html }} </i> <p>
       <p><a href="{{ post.more_info }}">Click here to read more</a>
       {% if post.website %}
